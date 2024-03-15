@@ -46,7 +46,7 @@ This project aims to analyze COVID-19 data during January to July 2020 utilizing
 - **Visualization:** Visualizations, including confusion matrices, histograms, scatter plots, and line plots, effectively conveyed insights from the data, labeled properly for clarity.
 - **Feature Engineering:** New features were engineered based on existing ones, providing additional insights into the data, with rationale explained when necessary.
 - **Model Tuning and Cross-Validation:** Hyperparameter tuning and cross-validation were performed using GridSearchCV to find optimal model parameters, with appropriate evaluation metrics selected and results correctly interpreted.
-4. **Documentation and Readability:** Prioritize clear documentation and code readability to facilitate collaboration and understanding among team members or stakeholders.
+4. **Documentation and Readability:** Prioritize clear documentation and code readability to facilitate understanding for efficient collaboration and future reference.
 
 ### Dataset URL
 [Kaggle Dataset - COVID-19 Report](https://www.kaggle.com/datasets/imdevskp/corona-virus-report?select=day_wise.csv)
