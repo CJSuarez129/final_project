@@ -74,3 +74,6 @@ This project aims to analyze COVID-19 data during January to July 2020 utilizing
 3. **Feedback and Collaboration:** Seek feedback from peers or mentors and collaborate with domain experts if necessary to improve the quality and accuracy of your analysis.
 
 4. **Documentation and Readability:** Prioritize clear documentation and code readability to facilitate collaboration and understanding among team members or stakeholders.
+
+### Dataset URL
+[Kaggle Dataset - COVID-19 Report](https://www.kaggle.com/datasets/imdevskp/corona-virus-report?select=day_wise.csv)
