@@ -15,7 +15,7 @@ This repository presents an extensive analysis of COVID-19 data sourced from var
 
 ### Project Summary
 
-This project aims to analyze COVID-19 data utilizing machine learning techniques. Below is a summary of the key components and findings of the analysis:
+This project aims to analyze COVID-19 data during January to July 2020 utilizing machine learning techniques. Below is a summary of the key components and findings of the analysis:
 
 - **Comments and Documentation:** Well-documented code blocks enhance readability and understanding, explaining their purpose effectively.
   
